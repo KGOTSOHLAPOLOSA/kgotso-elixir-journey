@@ -1,0 +1,13 @@
+# Live book learning
+
+## Section
+
+```elixir
+a = 1
+```
+
+## Hello world
+
+```elixir
+[a, b] = [1, 2]
+```
